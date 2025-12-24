@@ -1,5 +1,5 @@
 
-# AI Resume Analyzer
+# Smart Resume Analyzer
 
 A small Flask-based service that extracts text from PDF/DOCX resumes and uses the Google Generative Language API (Gemini / text-bison) to produce a structured JSON resume analysis.
 
