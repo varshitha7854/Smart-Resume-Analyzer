@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Resume Analyzer Pro",
+  "description": "A high-performance resume analysis tool powered by Google Gemini AI. Upload or paste your resume to get instant feedback, scores, and upskilling suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
